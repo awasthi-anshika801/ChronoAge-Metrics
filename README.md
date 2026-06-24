@@ -78,6 +78,7 @@ chronoage-metrics/
 
 ## 📸 App Preview
 
+![App Screenshot](screenshot.png)
 > 🗓️ Select your date of birth → Click **Calculate Age** → Get your full time breakdown instantly!
 
 **Metrics Displayed:**
